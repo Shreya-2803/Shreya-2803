@@ -68,6 +68,7 @@ const shreya = {
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shreya-2803)
 
 ---
+![](https://leetcard.jacoblin.cool/Shreya_Paladhi?cache=0)
 
 ## Thanks for visiting! 🚀
 
