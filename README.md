@@ -18,7 +18,7 @@ I have experience with the following languages:
 
 ## Interests
 
-I have a diverse range of interests, from Real Estate News Aggregation to Data Structures and Algorithms.
+I have a diverse range of interests, from web development to Data Structures and Algorithms and Machine learning.
 
 ## Projects
 
