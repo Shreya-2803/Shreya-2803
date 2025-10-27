@@ -2,7 +2,7 @@
 
 ## Overview
 
-Hello, I'm Shreya-2803! Welcome to my GitHub profile where I showcase my coding journey. Here are some insights into my GitHub activity and interests.
+Hello, I'm Shreya! Welcome to my GitHub profile where I showcase my coding journey. Here are some insights into my GitHub activity and interests.
 
 ## Activity Summary
 
