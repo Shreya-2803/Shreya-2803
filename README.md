@@ -39,6 +39,9 @@ I have also contributed to repositories like:
 
 I focus on Python development and have made a total of 28 commits across my repositories.
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Shreya-2803&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 ## Connect with Me
 
 Feel free to reach out to me on [GitHub](https://github.com/Shreya-2803) for any collaborations or discussions.
